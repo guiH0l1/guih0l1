@@ -1,4 +1,4 @@
-### OI! Sou Guilherme Oliveira, conhecido tambem como Holi
+### OI! Sou Guilherme Oliveira, mas pode me chamar de Holi
 
 -Sou iniciante na area, estou atualmente estou aprendendo desenvolvimento web java no instituto PROA, tenho em interesse em tecnologia, robótica, desenvolvimento de sites e aplicativos.
 
