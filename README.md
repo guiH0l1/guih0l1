@@ -3,7 +3,7 @@
 -Sou iniciante na area, tenho em interesse em tecnologia, robótica, desenvolvimento de sites e aplicativos.
 
 >*Hi, i'm Guilherme Holi*<br>
->I'm beginner in the field, and I"m currently learning java web development at proa institute, I have in interest in technology, robotics, website development and applications.
+>I'm beginner in the field, I have in interest in technology, robotics, website development and applications.
 <br>
 <div style="display: inline_block">
  <br>
