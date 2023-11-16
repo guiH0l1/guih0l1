@@ -1,6 +1,6 @@
 ### OI! Sou Guilherme Oliveira, mas pode me chamar de Holi
 
--Sou iniciante na area, tenho em interesse em tecnologia, robótica, desenvolvimento de sites e aplicativos.
+-Sou iniciante na area, tenho em interesse em tecnologia, robótica, desenvolvimento de sites e aplicativos e principalmente em Data Science.
 
 >*Hi, i'm Guilherme Holi*<br>
 >I'm beginner in the field, I have in interest in technology, robotics, website development and applications.
