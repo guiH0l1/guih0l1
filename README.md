@@ -3,7 +3,7 @@
 -Sou iniciante na area, tenho em interesse em tecnologia, robótica, desenvolvimento de sites e aplicativos e principalmente em Data Science.
 
 >*Hi, i'm Guilherme Holi*<br>
->I'm beginner in the field, I have in interest in technology, robotics, website development and applications.
+>I'm beginner in the field, I have in interest in technology, robotics, website development and applications and mainly in Data Science.
 <br>
 <div style="display: inline_block">
  <br>
