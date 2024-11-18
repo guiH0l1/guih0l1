@@ -1,4 +1,4 @@
-### Sou Guilherme Oliveira, mas pode me chamar de Holi
+### Sou Guilherme Oliveira, tambem chamado de Holi
 
 -Sou iniciante na area, tenho em interesse em tecnologia, robótica, desenvolvimento de sites e aplicativos e principalmente em Data Science.
 
