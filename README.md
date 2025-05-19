@@ -16,7 +16,7 @@
   <img align="center" alt="Holi-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="Holi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Holi-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"> 
-  <img align="center" alt="Holi-py" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg">
+  <img align="center" alt="Holi-py" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Holi-C" height="35" width="40" src="https://github.com/user-attachments/assets/b319a85a-cab7-4a59-8447-62d23188dcda">
      
  </div>
