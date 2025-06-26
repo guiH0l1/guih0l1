@@ -18,6 +18,8 @@
   <img align="center" alt="Holi-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"> 
   <img align="center" alt="Holi-py" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Holi-C" height="35" width="40" src="https://github.com/user-attachments/assets/b319a85a-cab7-4a59-8447-62d23188dcda">
+  <img align="center" alt="Holi-sql" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Holi-sql" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg">
      
  </div>
  
